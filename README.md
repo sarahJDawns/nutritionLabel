@@ -1,5 +1,9 @@
 ## Nutrition Label
 
+---
+
+![img](images/nutritionLabel.png)
+
 ### Built With
 
 - ![HTML]
